@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="area">
+        <item>전신</item>
+        <item>상체</item>
+        <item>하체</item>
+        <item></item>
+    </string-array>
+    <string-array name="difficulty">
+        <item>상</item>
+        <item>중</item>
+        <item>하</item>
+        <item></item>
+    </string-array>
+    <string-array name="time">
+        <item>30분</item>
+        <item>60분</item>
+        <item>90분</item>
+        <item>120분</item>
+        <item></item>
+    </string-array>
+</resources>
