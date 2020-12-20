@@ -64,6 +64,7 @@
                     android:textStyle="bold"
                     android:background="#585858"
                     android:text="중복체크"
+                    android:onClick="overlap"
                     android:layout_gravity="center"
                     android:id="@+id/validateButton"
                     android:textColor="#ffffff"/>
@@ -139,6 +140,7 @@
                 android:textStyle="bold"
                 android:textColor="#585858"
                 android:text="가입하기"
+                android:onClick="Login2"
                 android:layout_marginTop="10dp"
                 android:layout_gravity="center"
                 android:id="@+id/registerButton"/>
